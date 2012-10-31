@@ -163,5 +163,5 @@ pip-log.txt
 .DS_Store
 
 
-ingles.sublime-project
-ingles.sublime-workspace
+*.sublime-project
+*.sublime-workspace

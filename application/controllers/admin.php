@@ -92,6 +92,7 @@ class Admin extends CI_Controller {
       $data['id'] = $this->input->post('id');
       $data['portugues'] = $this->input->post('portugues');
       $data['ingles'] = $this->input->post('ingles');
+      $data['status'] = $this->input->post('status');
 
       if($this->admin_model->gravar_alteracao($data)){
         redirect(base_url().'admin/gerenciar', 'refresh');

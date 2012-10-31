@@ -1,3 +1,22 @@
+<script>
+$(function($) {
+  $('div.btn-group[data-toggle-name=*]').each(function(){
+    var group   = $(this);
+    var form    = group.parents('form').eq(0);
+    var name    = group.attr('data-toggle-name');
+    var hidden  = $('input[name="' + name + '"]', form);
+    $('button', group).each(function(){
+      var button = $(this);
+      button.live('click', function(){
+          hidden.val($(this).val());
+      });
+      if(button.val() == hidden.val()) {
+        button.addClass('active');
+      }
+    });
+  });
+});
+</script>
 <ul class="breadcrumb">
   <li><a href="<?php echo base_url(); ?>">Home</a> <span class="divider">/</span></li>
   <li><a href="<?php echo base_url(); ?>admin/gerenciar">Gerenciar</a> <span class="divider">/</span></li>
@@ -12,13 +31,23 @@ foreach ($user as $row) {
   <div class="control-group">
     <label class="control-label" for="ingles">Inglês</label>
     <div class="controls">
-      <input type="text" name="ingles" id="ingles" value="<?php echo $row->ingles;?>">
+      <input type="text" name="ingles" id="ingles" value="<?php echo $row->ingles; ?>">
     </div>
   </div>
   <div class="control-group">
     <label class="control-label" for="portugues">Português</label>
     <div class="controls">
-      <input type="text" name="portugues" id="portugues" value="<?php echo $row->portugues;?>">
+      <input type="text" name="portugues" id="portugues" value="<?php echo $row->portugues; ?>">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="portugues">Status</label>
+    <div class="controls">
+      <div class="btn-group" data-toggle="buttons-radio" data-toggle-name="status">
+        <button type="button" value="1" class="btn">On</button>
+        <button type="button" value="0" class="btn">Off</button>
+      </div>
+      <input type="hidden" name="status" value="<?php echo $row->status; ?>" />
     </div>
   </div>
   <div class="control-group">

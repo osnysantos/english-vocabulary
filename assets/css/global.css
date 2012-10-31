@@ -89,3 +89,14 @@ body{padding:30px;}
 .manage .edit a, .manage .edit a:visited{background:transparent url('../img/edit.png') no-repeat 0 0;}
 .manage .delete a, .manage .delete a:visited{background:transparent url('../img/delete.png') no-repeat 0 0;}
 .manage a:hover{background-position:0 -16px !important;}
+
+tr.disabled th, tr.disabled td{
+  font-style: italic;
+  color:rgba(100,100,100,0.3);
+}
+.on{
+  color:rgba(0,200,0,1);
+}
+.off{
+  color:rgba(255,0,0,0.3);
+}

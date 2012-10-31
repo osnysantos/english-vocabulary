@@ -8,6 +8,7 @@ class Admin_model extends CI_Model {
   }
   function listar(){
     $this->db->order_by('id','random');
+    $this->db->where('status',1);
     $query = $this->db->get('palavras');
     return $query->result();
   }

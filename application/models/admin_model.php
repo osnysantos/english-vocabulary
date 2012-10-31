@@ -4,7 +4,7 @@ class Admin_model extends CI_Model {
     parent::__construct();
   }
   function gravar($data){
-      return $this->db->insert('palavras',$data);
+    return $this->db->insert('palavras',$data);
   }
   function listar(){
     $this->db->order_by('id','random');

@@ -1,0 +1,1317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"BACKGROU",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"protecao_",
+				"protecao_vazao"
+			],
+			[
+				"pro",
+				"protecao_gas"
+			],
+			[
+				"purg",
+				"purga_vazao"
+			],
+			[
+				"prot",
+				"prot_bisel"
+			],
+			[
+				"lim",
+				"limpeza_i"
+			],
+			[
+				"te",
+				"tec_goivagem"
+			],
+			[
+				"Set",
+				"SetX"
+			],
+			[
+				"SetX",
+				"SetXY"
+			],
+			[
+				"di",
+				"disabled	@disabled"
+			],
+			[
+				"nome",
+				"nomedestino"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"t",
+				"this"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/header.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/home.php",
+			"settings":
+			{
+				"buffer_size": 1007,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/admin.php",
+			"settings":
+			{
+				"buffer_size": 3109,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/home.php",
+			"settings":
+			{
+				"buffer_size": 577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "application/views/gerenciar.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/gerenciar.php",
+			"settings":
+			{
+				"buffer_size": 801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/layout/header.php",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/cadastrar.php",
+			"settings":
+			{
+				"buffer_size": 971,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/database.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/config.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "application/views/alterar.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/admin/alterar.php",
+			"settings":
+			{
+				"buffer_size": 894,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/admin_model.php",
+			"settings":
+			{
+				"buffer_size": 825,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/global.css",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/global.js",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/autoload.php",
+			"settings":
+			{
+				"buffer_size": 3104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 12823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/olhoseo2012/.htaccess",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/ingles/application/views/layout/header",
+		"/D/cimm/cimm.portal/app/views/layouts/_miolo.html.erb",
+		"/D/cimm/cimm.portal/app/views/busca/index.html.erb",
+		"/D/torrents/Modern Family Season 1 DVDRip/Episode 03 - Come Fly With Me.srt",
+		"/D/cimm/cimm.portal/app/views/layouts/_cabecalho.html.erb",
+		"/D/cimm/cimm.portal/app/controllers/noticia_controller.rb",
+		"/D/cimm/cimm.portal/public/stylesheets/novo/global.css",
+		"/D/cimm/cimm.portal/app/views/noticia/index_cimm.html.erb",
+		"/D/cimm/cimm.portal/app/views/noticia/pagina_principal/_listar_noticias_datadas.html.erb",
+		"/D/cimm/cimm.portal/app/views/noticia/pagina_principal/_listar_proximos_eventos.html.erb",
+		"/D/cimm/cimm.portal/app/views/noticia/pagina_principal/_listar_noticias_quadro_detalhado.html.erb",
+		"/D/cimm/cimm.portal/public/javascripts/global.js",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/D/cimm/cimm.portal/config/database.yml",
+		"/D/cimm/cimm.portal/app/views/contato/enviar.html.erb",
+		"/D/cimm/cimm.portal/app/controllers/contato_controller.rb",
+		"/D/cimm/cimm.portal/app/models/carteiro.rb",
+		"/D/cimm/cimm.portal/app/views/layouts/search.html.erb",
+		"/D/cimm/cimm.portal/app/views/layouts/application4.html.erb",
+		"/D/cimm/cimm.portal/app/views/layouts/application3.html.erb",
+		"/D/cimm/cimm.portal/app/views/layouts/application2.html.erb",
+		"/D/cimm/cimm.portal/app/views/layouts/application.html.erb",
+		"/D/cimm/cimm.portal/app/views/layouts/_rodape.html.erb",
+		"/D/cimm/cimm.portal/app/models/pessoa_juridica.rb",
+		"/D/cimm/cimm.portal/app/controllers/admin/pessoas_juridicas_controller.rb",
+		"/D/cimm/cimm.portal/app/controllers/colunistas_controller.rb",
+		"/D/cimm/cimm.portal/config/environment.rb",
+		"/D/cimm/cimm.portal/app/views/inovacao/index.html.erb",
+		"/D/cimm/cimm.portal/app/views/lancamentos/index.html.erb",
+		"/D/cimm/cimm.portal/app/views/noticia/procurar_noticia.html.erb",
+		"/D/cimm/cimm.portal/app/models/email.rb",
+		"/D/cimm/cimm.portal/app/views/en/index.html.erb",
+		"/D/cimm/cimm.portal/app/views/en/quemsomos.html.erb",
+		"/D/cimm/cimm.portal/app/views/colunistas/show.html.erb",
+		"/D/cimm/cimm.portal/app/views/pessoas_juridicas/exibir2.html.erb",
+		"/D/cimm/cimm.portal/app/views/pessoas_juridicas/exibir.html.erb",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/style.css",
+		"/D/cimm/cimm.portal/public/stylesheets/global.css",
+		"/D/cimm/cimm.portal/app/views/especial/index.html.erb",
+		"/D/cimm/cimm.portal/app/controllers/servicos_controller.rb",
+		"/D/cimm/cimm.portal/app/controllers/produtos_controller.rb",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Netto/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Netto/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/D/xampp/htdocs/eps/application/helpers/dompdf/dompdf_config.inc.php",
+		"/D/xampp/php/php.ini",
+		"/C/Users/Netto/AppData/Local/Temp/Rar$DR42.864/Modern.Family.S01E02.srt",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/Netto/AppData/Local/Temp/Rar$DR09.970/Modern.Family.S01E02.srt",
+		"/D/torrents/Modern Family Season 1 DVDRip/Episode 02 - The Bicycle Thief.srt",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/widget_nl.php",
+		"/D/torrents/Modern Family Season 1 DVDRip/Episode 01 - Pilot.srt",
+		"/D/xampp/htdocs/eps/application/helpers/dompdf/dompdf.php",
+		"/D/xampp/htdocs/eps/application/helpers/dompdf/www/examples.php",
+		"/D/xampp/htdocs/exemploHtml2Pdf/exemploHtmlExterno.php",
+		"/D/xampp/htdocs/exemploHtml2Pdf/html2pdf/html2pdf.class.php",
+		"/D/xampp/htdocs/exemploHtml2Pdf/htmlExterno.php",
+		"/D/xampp/htdocs/exemploHtml2Pdf/css/style.css",
+		"/D/xampp/htdocs/exemploHtml2Pdf/exemploPdf.php",
+		"/D/xampp/htdocs/eps/teste.php",
+		"/C/Users/Netto/Desktop/index.php",
+		"/C/Users/Netto/AppData/Local/Temp/Rar$DI00.432/mod_phocadownloads_latest.xml",
+		"/D/xampp/htdocs/eps/application/views/user/eps_etapa_1.php",
+		"/D/xampp/htdocs/eps/assets/js/default.js",
+		"/D/xampp/htdocs/eps/application/controllers/admin/home.php",
+		"/D/xampp/htdocs/eps/application/controllers/admin/eps.php",
+		"/D/xampp/htdocs/eps/application/views/auth/edit_user.php",
+		"/D/xampp/htdocs/eps/application/views/user/cadastrar_eps.php",
+		"/D/xampp/htdocs/eps/application/models/ion_auth_model.php",
+		"/D/xampp/htdocs/eps/application/controllers/auth.php",
+		"/D/xampp/htdocs/eps/assets/css/bootstrap.min.css",
+		"/D/xampp/htdocs/eps/application/views/user/eps_etapa_2.php",
+		"/D/xampp/htdocs/eps/application/views/user/eps_etapa_4.php",
+		"/D/xampp/htdocs/eps/application/models/user_model.php",
+		"/D/xampp/htdocs/eps/application/controllers/example.php",
+		"/D/xampp/htdocs/eps/application/views/pdf.php",
+		"/D/xampp/htdocs/eps/application/controllers/pdf_test.php",
+		"/D/xampp/htdocs/eps/application/views/pdf_test.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/page.php",
+		"/D/xampp/htdocs/eps/application/views/user/eps_etapa_3.php",
+		"/C/Users/Netto/Desktop/retorno.php",
+		"/C/Users/Netto/AppData/Local/Temp/Rar$DR00.568/retorno.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/inscricao.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-1/pagseguro.php",
+		"/C/Users/Netto/Desktop/deploy.php",
+		"/C/Users/Netto/Desktop/mayara/index.html",
+		"/D/xampp/htdocs/eps/application/config/production/database.php",
+		"/D/xampp/htdocs/eps/application/config/config.php",
+		"/D/xampp/htdocs/eps/application/config/production/config.php",
+		"/D/xampp/htdocs/eps/system/libraries/Email.php",
+		"/D/xampp/htdocs/eps/application/views/user/header.php",
+		"/D/xampp/htdocs/eps/application/controllers/user/eps.php",
+		"/D/xampp/htdocs/eps/assets/css/global.css",
+		"/C/Users/Netto/Desktop/eps.sublime-project",
+		"/D/xampp/htdocs/eps/application/views/auth/create_user.php",
+		"/C/Users/Netto/AppData/Local/Temp/Rar$DR14.900/experta/templates/experta/index.php",
+		"/D/xampp/htdocs/eps/index.php",
+		"/D/xampp/htdocs/eps/.git/config",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/post-update",
+		"/D/xampp/htdocs/eps/application/config/database.php",
+		"/D/xampp/htdocs/eps/application/views/auth/forgot_password.php",
+		"/C/Users/Netto/AppData/Local/Temp/fz3temp-2/configuration.php",
+		"/C/Users/Netto/Desktop/oi.php",
+		"/C/Users/Netto/.ssh/id_rsa",
+		"/D/xampp/htdocs/eps/application/views/auth/activation.php",
+		"/D/xampp/htdocs/olhoseo2012/application/controllers/contato.php",
+		"/D/xampp/htdocs/eps/oi.html",
+		"/C/Users/Netto/.ssh/id_rsa.pub",
+		"/C/Users/Netto/Desktop/bitbucket.php",
+		"/C/Users/Netto/Desktop/config",
+		"/D/xampp/htdocs/eps/.git/hooks/post-update.sample",
+		"/D/xampp/htdocs/olhoseo2012/system/libraries/Email.php",
+		"/D/xampp/htdocs/eps/application/views/welcome_message.php",
+		"/D/xampp/htdocs/auth/application/views/user/eps_etapa_1.php",
+		"/D/xampp/htdocs/auth/application/views/user/home.php",
+		"/C/Users/Netto/Desktop/oi.html",
+		"/D/xampp/htdocs/auth/assets/js/default.js",
+		"/D/xampp/htdocs/auth/assets/css/global.css",
+		"/D/xampp/htdocs/eps/application/views/admin/header.php",
+		"/D/xampp/htdocs/auth/file.php",
+		"/D/xampp/htdocs/blogptc/wp-content/themes/twentyeleven/style.css",
+		"/D/xampp/htdocs/blogptc/wp-content/themes/twentyeleven/header.php",
+		"/D/xampp/htdocs/blogptc/wp-content/themes/twentyeleven/content.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\cimm\\cimm.portal\\",
+			"D:\\cimm\\cimm.portal\\public",
+			"D:\\cimm\\cimm.portal",
+			"D:\\cimm\\cimm.portal\\public",
+			"D:\\cimm\\cimm.portal",
+			"D:\\xampp\\htdocs\\eps",
+			"D:\\xampp\\php",
+			"D:\\xampp\\",
+			"D:\\xampp\\htdocs\\eps",
+			"D:\\xampp\\htdocs\\polo",
+			"D:\\xampp\\htdocs\\eps",
+			"D:\\xampp\\htdocs\\eps,C:\\Users\\Netto\\Desktop\\moodle",
+			"D:\\xampp\\htdocs\\eps",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uri_protocol",
+			"query",
+			"gravar(",
+			" id=\"ingles\"",
+			"arguments",
+			"navrodape",
+			"#conteudo",
+			"bannersrodape",
+			"navrodape",
+			"fb_rodape",
+			"fb_banner",
+			"contact_infos",
+			"<strong>Site:",
+			"<strong>Site:</strong>",
+			"Site: ",
+			"site:",
+			"site",
+			":limit",
+			"posts",
+			"seoString",
+			"FORID",
+			"FORID:11",
+			"robots",
+			".wrapper",
+			"#wrapper",
+			"wrapper",
+			"anuncie",
+			"resolucao(",
+			"screen.",
+			":corpo",
+			"fundo_topo",
+			"fundo_",
+			"fundo",
+			"$mecshow2012",
+			"secao",
+			"assunto",
+			"email_destinatario",
+			"@email_destinatario",
+			"e@mail_destinatario",
+			"mail_destinatario",
+			"email",
+			"deliver_contato",
+			"id_secao",
+			"procurar_",
+			"id_secao",
+			"prox",
+			"<%= noticia.data_inicio.strftime(\"%d\") %>",
+			"bannertop",
+			"prox",
+			"marc",
+			".forum",
+			"#blo2 ",
+			"box_miolo {",
+			"box_miolo{",
+			"#blo1 ",
+			"#blo2 ",
+			".forum",
+			"cse",
+			"@eventos",
+			".nav, .subnav",
+			"\" grau",
+			"\" graus",
+			"/solda",
+			"tipopeca",
+			"cellpadding=\"5\"",
+			"topo_junta_y",
+			"<font face=\"symbol\">&alpha;</font>",
+			"symbol",
+			"topo_junta_y",
+			"topo_y",
+			"DOMPDF_UNICODE_ENABLED",
+			"MBString",
+			"MBString ",
+			"MBString",
+			"junta_y",
+			"\" class=\"math\" />",
+			"class=\"math",
+			"class=\"",
+			"e;} ?",
+			"e;} ?>",
+			"o;} ?>",
+			"o; ?>",
+			"s?>",
+			"o; ?>",
+			"e; ?>",
+			"an; ?>",
+			"o?>",
+			"e?>",
+			"n?>",
+			" size=\"2\" class=\"total\" readonly=\"readonly\" value=\"",
+			"<input name=\"an\" type=\"text\" ",
+			"<input name=\"ano\" type=\"text\" ",
+			"<input name=\"rse\" type=\"text\" ",
+			"<input name=\"rne\" type=\"text\" ",
+			"<input name=\"gs\" type=\"text\" ",
+			"<input name=\"gn\" type=\"text\" ",
+			";} ?>\" />",
+			"<input name=\"ase\" type=\"text\" ",
+			"?>\" />\n				graus",
+			"\" /> mm",
+			"id=\"",
+			"\" size=\"2\" class=\"numero\" value=\"",
+			"<input name=\"ane\" type=\"text\" id=\"",
+			"<input name=\"s\" type=\"text\" id=\"",
+			"<input name=\"f\" type=\"text\" id=\"",
+			"<input name=\"e\" type=\"text\" ",
+			"</table>\n</div>\n<div class=\"",
+			"processo",
+			"carac",
+			"hr",
+			">\n",
+			"php_pdf",
+			"php_pdf.dll",
+			".ico",
+			"assine",
+			"ass",
+			"lato",
+			"lito",
+			"from users where users",
+			"DOMPDF_ENABLE_REMOTE",
+			"landscape",
+			"orientation",
+			"html",
+			"imprimir",
+			"base_url",
+			"imprimir",
+			"alterar",
+			"load"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".box_miolo ",
+			"cellpadding=\"0\"",
+			"<font face=\"symbol\">a</font>",
+			"",
+			"s;} ?>",
+			"o;} ?>",
+			"e;} ?>",
+			"an;} ?>",
+			"o; ?>",
+			"e; ?>",
+			"n; ?>",
+			"",
+			"?>",
+			"",
+			"?>\" graus",
+			" mm",
+			"",
+			"</table>\n</div>\n<?php } ?>\n\n<?php if($dados_eps[0]->tipojunta =='xxxxxxxxxxxxxx'){ ?>\n<div class=\"",
+			"",
+			"class=\"total2\" readonly=\"readonly\"",
+			"class=\"total1\" readonly=\"readonly\"",
+			"class=\"total\" readonly=\"readonly\"",
+			"class=\"total2\" readonly=\"readonly\" v",
+			"class=\"total1\" readonly=\"readonly\" v",
+			"class=\"total\" readonly=\"readonly\" v",
+			"class=\"total\" readonly=\"readonly\"",
+			"readonly=\"readonly\" value",
+			"val(",
+			"<div class=\"equipe1\">\n<div class=\"foto\"><img src=\"images/equipe/foto_profile.jpg\" border=\"0\" alt=\"\" /></div>\n<p class=\"title\">Osny Santos Netto</p>\n<p class=\"email\"><strong class=\"icon-envelope\"> </strong> netto@osny.me</p>\n<p class=\"fone\"><strong class=\"icon-phone\"> </strong> 48 9935-5794</p>\n<p class=\"lattes\"><a href=\"#\">Currículo Lattes</a></p>\n<p class=\"site\"><a href=\"index.php?option=com_content&amp;view=article&amp;id=78&amp;catid=78\">Página pessoal</a></p>\n</div>",
+			"55",
+			"_aso\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->aso;} ?>\" /> graus",
+			"_rso\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rso;} ?>\" />",
+			"_rse\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rse;} ?>\" />",
+			"_rno\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rno;} ?>\" />",
+			"_ano\" size=\"2\" class=\"math numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ano;} ?>\" />",
+			"_ane\" size=\"2\" class=\"math numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ane;} ?>\" />",
+			"_aso\" size=\"2\" class=\"math2\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->aso;} ?>\" /> graus",
+			"_ase\" size=\"2\" class=\"math2\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ase;} ?>\" /> graus",
+			"_rno\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rno;} ?>\" /> mm",
+			"_rse\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rse;} ?>\" /> mm",
+			"_rne\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->rne;} ?>\" /> mm",
+			"_gn\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->gn;} ?>\" /> mm",
+			"_ase\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ase;} ?>\" />",
+			"_s\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->s;} ?>\" /> mm",
+			"_f\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->f;} ?>\" /> mm",
+			"_e\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->e;} ?>\" /> mm",
+			"_f\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->f;} ?>\" />",
+			"_e\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->e;} ?>\" />",
+			"ano\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ano;} ?>\" />",
+			"ane\" size=\"2\" class=\"numero\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ane;} ?>\" />",
+			"ano\" size=\"2\" class=\"math1\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ano;} ?>\" />",
+			"ane\" size=\"2\" class=\"math1\" value=\"<?php if(!empty($dados_eps)){echo $dados_eps[0]->ane;} ?>\" />",
+			"$dados_eps[0]->",
+			"\";\n        		break;\n    		",
+			"",
+			"\":\n        		$posicaosoldagem = \"",
+			"",
+			"case \"",
+			"\";\n        		break;",
+			";\n        		break;\n    		",
+			";\n        		break;",
+			"'",
+			"",
+			"\":\n        		$tipojunta = \"",
+			"\n    		case \"",
+			" mm",
+			"/> mm",
+			"<font face=\"symbol\">&alpha;</font>",
+			"math numero",
+			"numero",
+			"class=\"field_number\"",
+			"'",
+			"\n</td>",
+			"/>\n    </td>",
+			"size=\"2\" class=\"math number\"",
+			"size=\"2\" class=\"number\" />"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/header.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2737,
+								2737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/routes.php",
+					"settings":
+					{
+						"buffer_size": 1541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								1430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/controllers/home.php",
+					"settings":
+					{
+						"buffer_size": 1007,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/controllers/admin.php",
+					"settings":
+					{
+						"buffer_size": 3109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/home.php",
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/views/gerenciar.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/views/admin/gerenciar.php",
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								697,
+								697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 80.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/views/layout/header.php",
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1468,
+								1468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/views/admin/cadastrar.php",
+					"settings":
+					{
+						"buffer_size": 971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/database.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/Netto/AppData/Local/Temp/fz3temp-1/config.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/views/alterar.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/views/admin/alterar.php",
+					"settings":
+					{
+						"buffer_size": 894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "application/models/admin_model.php",
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "assets/css/global.css",
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "assets/js/global.js",
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "application/config/autoload.php",
+					"settings":
+					{
+						"buffer_size": 3104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1670,
+								1670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 588.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "application/config/config.php",
+					"settings":
+					{
+						"buffer_size": 12823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5233,
+								5238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1898.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": ".htaccess",
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/D/xampp/htdocs/olhoseo2012/.htaccess",
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 173.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"espe/inde",
+				"app/views/especial/index.html.erb"
+			],
+			[
+				"sercontro",
+				"app/controllers/servicos_controller.rb"
+			],
+			[
+				"procontro",
+				"app/controllers/produtos_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/cimm/cimm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true
+}

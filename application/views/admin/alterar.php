@@ -51,6 +51,26 @@ foreach ($user as $row) {
     </div>
   </div>
   <div class="control-group">
+    <label class="control-label" for="grupo">Grupo</label>
+    <div class="controls">
+      <select name="grupo" id="grupo">
+        <?php foreach ($grupo as $grupo):?>
+          <option value="<?= $grupo->id; ?>"><?= $grupo->nome; ?></option>
+        <?php endforeach;?>
+      </select>
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="nivel">Nível</label>
+    <div class="controls">
+      <select name="nivel" id="nivel">
+        <?php foreach ($nivel as $nivel):?>
+          <option value="<?= $nivel->id; ?>"><?= $nivel->nome; ?></option>
+        <?php endforeach;?>
+      </select>
+    </div>
+  </div>
+  <div class="control-group">
     <label class="control-label" for="inputPassword"></label>
     <div class="controls">
       <button type="submit" class="btn btn-primary">Alterar</button>

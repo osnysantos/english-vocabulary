@@ -2,9 +2,7 @@
   <thead>
     <tr>
       <th width="5%">Id</th>
-      <th width="10%">Português</th>
-      <th width="10%">Inglês</th>
-      <th width="10%">Status</th>
+      <th width="20%">Nome</th>
       <th>Ações</th>
     </tr>
   </thead>
@@ -13,18 +11,9 @@
     foreach ($user as $row)
     {
       ?>
-      <tr<?php if($row->status=="0"){ echo ' class="disabled"'; } ?>>
+      <tr>
         <td><?php echo $row->id; ?></td>
-        <td><?php echo $row->portugues; ?></td>
-        <td><?php echo $row->ingles; ?></td>
-        <td>
-          <?php
-            if($row->status=="0"){
-              echo "<span class='off'>Off</span>";
-            } else {
-              echo "<span class='on'>On</span>";
-            }
-          ?></td>
+        <td><?php echo $row->nome; ?></td>
         <td>
           <a href="<?php echo base_url(); ?>admin/alterar/<?php echo $row->id; ?>" class="btn btn-mini"><b class="icon-pencil"></b> <span>Alterar</span></a>
           <a href="<?php echo base_url(); ?>admin/excluir/<?php echo $row->id; ?>" class="btn btn-mini"><b class="icon-remove"></b> <span>Excluir</span></a>

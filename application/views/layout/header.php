@@ -16,6 +16,22 @@
         <div class="brand"><a href="<?php echo base_url(); ?>">Enghish Vocabulary Booster</a></div>
         <ul class="nav">
           <li <?php if($this->uri->rsegment(2) == "index"){ echo "class='active'"; } ?>><a href="<?php echo base_url(); ?>">Home</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gerenciar <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url(); ?>admin/palavras">Palavras</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/grupos">Grupos</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/niveis">Níveis</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adicionar <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_palavra">Palavra</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_grupo">Grupo</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_nivel">Nível</a></li>
+            </ul>
+          </li>
           <li <?php if($this->uri->rsegment(2) == "gerenciar" || $this->uri->rsegment(2) == "alterar"){ echo "class='active'"; } ?>><a href="<?php echo base_url(); ?>admin/gerenciar">Gerenciar</a></li>
           <li <?php if($this->uri->rsegment(2) == "cadastrar"){ echo "class='active'"; } ?>><a href="<?php echo base_url(); ?>admin/cadastrar">Cadastrar palavra</a></li>
         </ul>

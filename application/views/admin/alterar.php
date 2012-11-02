@@ -24,7 +24,7 @@ $(function($) {
 </ul>
 
 <?php
-foreach ($user as $row) {
+  foreach ($user as $row) {
 ?>
 <form class="form-horizontal" method="post" action="<?php echo base_url(); ?>admin/gravar_alteracao">
   <input type="hidden" name="id" value="<?php echo $row->id;?>">

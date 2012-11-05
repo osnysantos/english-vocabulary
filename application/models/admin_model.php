@@ -19,9 +19,10 @@ class Admin_model extends CI_Model {
     return $query->result();
   }
   function listar_palavras(){
-    $this->db->select('*');
+    $this->db->select('palavras.*, grupos.nome as nome_grupo, niveis.nome as nome_nivel');
     $this->db->from('palavras');
     $this->db->join('grupos', 'palavras.grupo = grupos.id', 'left');
+    $this->db->join('niveis', 'palavras.nivel = niveis.id', 'left');
     $this->db->order_by('palavras.id','desc');
     $query = $this->db->get();
     return $query->result();

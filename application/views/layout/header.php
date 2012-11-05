@@ -19,28 +19,52 @@
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Gerenciar <b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li><a href="<?php echo base_url(); ?>admin/palavras">Palavras</a></li>
-              <li><a href="<?php echo base_url(); ?>admin/grupos">Grupos</a></li>
-              <li><a href="<?php echo base_url(); ?>admin/niveis">Níveis</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/palavras"><b class="icon-list"></b> Palavras</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_palavra"><b class="icon-plus-sign"></b> Cadastrar palavra</a></li>
+              <li class="divider"></li>
+              <li><a href="<?php echo base_url(); ?>admin/grupos"><b class="icon-list"></b> Grupos</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_grupo"><b class="icon-plus-sign"></b> Cadastrar grupo</a></li>
+              <li class="divider"></li>
+              <li><a href="<?php echo base_url(); ?>admin/niveis"><b class="icon-list"></b> Níveis</a></li>
+              <li><a href="<?php echo base_url(); ?>admin/cadastrar_nivel"><b class="icon-plus-sign"></b> Cadastrar nível</a></li>
             </ul>
           </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Adicionar <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="<?php echo base_url(); ?>admin/cadastrar_palavra">Palavra</a></li>
-              <li><a href="<?php echo base_url(); ?>admin/cadastrar_grupo">Grupo</a></li>
-              <li><a href="<?php echo base_url(); ?>admin/cadastrar_nivel">Nível</a></li>
-            </ul>
-          </li>
-          <li <?php if($this->uri->rsegment(2) == "gerenciar" || $this->uri->rsegment(2) == "alterar"){ echo "class='active'"; } ?>><a href="<?php echo base_url(); ?>admin/gerenciar">Gerenciar</a></li>
-          <li <?php if($this->uri->rsegment(2) == "cadastrar"){ echo "class='active'"; } ?>><a href="<?php echo base_url(); ?>admin/cadastrar">Cadastrar palavra</a></li>
         </ul>
         <?php if($this->uri->rsegment(2) == "index"){ ?>
         <ul class="nav pull-right">
           <li>
-            <a href="#" class="inline"><span>Editar inline</span> <b class="icon-cog"></b></a>
+            <a href="#" class="filtros"><b class="icon-search"></b> <span>Filtros</span></a>
+          </li>
+          <li>
+            <a href="#" class="inline"><b class="icon-cog"></b> <span>Editar inline</span></a>
           </li>
         </ul>
         <?php } ?>
       </div>
+    </div>
+
+    <div id="boxfiltro" class="filtro" style="display:none;">
+      <form class="form-search">
+        <fieldset>
+          <input type="text" placeholder="Palavra" class="input-medium">
+          <select name="grupo" id="grupo" class="input-large">
+            <option value="">Todos os grupos</option>
+            <?php foreach ($grupo as $grupo):?>
+              <option value="<?= $grupo->id; ?>"><?= $grupo->nome; ?></option>
+            <?php endforeach;?>
+          </select>
+          <select name="nivel" id="nivel" class="input-medium">
+            <option value="">Todos os níveis</option>
+            <?php foreach ($nivel as $nivel):?>
+              <option value="<?= $grupo->id; ?>"><?= $nivel->nome; ?></option>
+            <?php endforeach;?>
+          </select>
+          <select name="status" id="status" class="input-small">
+            <option value="">Status</option>
+            <option value="1">Ativo</option>
+            <option value="0">Inativo</option>
+          </select>
+          <button type="submit" class="btn">Filtrar</button>
+        </fieldset>
+      </form>
     </div>

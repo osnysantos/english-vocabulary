@@ -100,3 +100,5 @@ tr.disabled th, tr.disabled td{
 .off{
   color:rgba(255,0,0,0.3);
 }
+.pt{background:transparent url('../img/flag-br.png') no-repeat 4px 3px;}
+.en{background:transparent url('../img/flag-uk.png') no-repeat 4px 3px;}

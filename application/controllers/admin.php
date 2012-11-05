@@ -74,7 +74,7 @@ class Admin extends CI_Controller {
     $this->load->view('layout/header');
     $this->load->view('admin/cadastrar_nivel');
   }
-  public function alterar($id)
+  public function alterar_palavra($id)
   {
     $this->load->model('admin_model');
     $data['user'] = $this->admin_model->alterar($id);
@@ -82,13 +82,13 @@ class Admin extends CI_Controller {
     $data['nivel'] = $this->admin_model->listar_niveis();
 
     $this->load->view('layout/header');
-    $this->load->view('admin/alterar',$data);
+    $this->load->view('admin/cadastrar_palavra',$data);
   }
-  public function excluir($id){
+  public function excluir_palavra($id){
     $this->load->model('admin_model');
 
     if($this->admin_model->excluir($id)){
-      redirect(base_url().'admin/gerenciar', 'refresh');
+      redirect(base_url().'admin/palavras', 'refresh');
     } else{
       echo "Erro ao excluir palavra";
     }
@@ -145,7 +145,7 @@ class Admin extends CI_Controller {
       }
     }
   }
-  function gravar_alteracao()
+  function update_palavra()
   {
     $this->load->model('admin_model');
 
@@ -158,10 +158,12 @@ class Admin extends CI_Controller {
       $data['id'] = $this->input->post('id');
       $data['portugues'] = $this->input->post('portugues');
       $data['ingles'] = $this->input->post('ingles');
+      $data['grupo'] = $this->input->post('grupo');
+      $data['nivel'] = $this->input->post('nivel');
       $data['status'] = $this->input->post('status');
 
       if($this->admin_model->gravar_alteracao($data)){
-        redirect(base_url().'admin/gerenciar', 'refresh');
+        redirect(base_url().'admin/palavras', 'refresh');
       } else {
         echo "erro";
       }

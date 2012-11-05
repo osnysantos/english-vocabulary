@@ -21,8 +21,10 @@ class Home extends CI_Controller {
   {
     $this->load->model('admin_model');
     $data['user'] = $this->admin_model->listar();
+    $data['grupo'] = $this->admin_model->listar_grupos();
+    $data['nivel'] = $this->admin_model->listar_niveis();
 
-    $this->load->view('layout/header');
+    $this->load->view('layout/header',$data);
     $this->load->view('home',$data);
   }
 	public function cadastrar()
